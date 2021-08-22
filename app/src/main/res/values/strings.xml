@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">bankUiXml</string>
+    <string name="your_balance">Your Balance</string>
+    <string name="_2606_36">$2606.36</string>
+    <string name="account_number">Account Number</string>
+    <string name="_2459702663">2459702663</string>
+    <string name="name">Name</string>
+    <string name="valid_thru">Valid Thru</string>
+    <string name="vitor_soares_silva">Vitor Soares Silva</string>
+    <string name="let_s_action">Let\'s Action</string>
+    <string name="_154_50">+ $154.50</string>
+    <string name="bca_34298493583">BCA - 34298493583</string>
+</resources>
